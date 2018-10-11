@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "pkg": "^4.3.1",
+    "fcr-config": "git://git@github.com:levelkdev/fcr-config#90317081c13fde7654ba2716cf333034d7a1b804",
     "fcr-js": "git://git@github.com:levelkdev/fcr-js#eb3275f501dbca0c6b913b21febdb778203389c1"
   },
   "scripts": {

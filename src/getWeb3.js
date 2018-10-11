@@ -1,5 +1,5 @@
 const Web3 = require('web3')
-const fcrConfig = require('../../fcr-config')
+const fcrConfig = require('fcr-config')
 
 module.exports = (network) => {
   let web3

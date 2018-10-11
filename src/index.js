@@ -1,8 +1,8 @@
 const _ = require('lodash')
 const yargs = require('yargs')
 const web3 = require('web3')
+const config = require('fcr-config')
 const getWeb3 = require('./getWeb3')
-const config = require('../../fcr-config/config.json')
 const getChallenge = require('./getChallenge')
 
 const BN = web3.utils.BN;
